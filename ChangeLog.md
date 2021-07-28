@@ -1,6 +1,6 @@
 Androides App - Chokis
 ========
 
-#Tasks
+# Tasks
 - Create Splash Screen - Okay
 - Add animation to Splash Screen - Pending
