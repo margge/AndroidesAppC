@@ -1,4 +1,5 @@
-##Androides App - Chokis
+Androides App - Chokis
+========
 
 #Tasks
 - Create Splash Screen - Okay
