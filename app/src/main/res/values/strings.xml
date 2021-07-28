@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidesAppC</string>
+    <string name="games">Games</string>
+    <string name="dont">Dunno what I\'m doing</string>
 </resources>
