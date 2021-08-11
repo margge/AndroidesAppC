@@ -16,3 +16,5 @@ Androides App - Chokis
         val handler = Handler(Looper.getMainLooper())
         handler.postDelayed(runnable, 2000)
     }
+    
+- Create Pull Request to develop branch - Pending
