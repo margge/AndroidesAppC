@@ -3,7 +3,7 @@ Androides App - Chokis
 
 # Tasks
 - Create Splash Screen - Okay
-- Add animation to Splash Screen - Pending
+- Add animation to Splash Screen - Okay
 - Create and empty activity call MenuActivity - Pending
 - Launch MenuActivity when animation in SplashActivity is loaded - Pending
   
