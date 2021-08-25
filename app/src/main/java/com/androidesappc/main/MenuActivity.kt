@@ -13,9 +13,4 @@ class MenuActivity : AppCompatActivity() {
         setContentView(R.layout.activity_menu)
     }
 
-    private fun loadMenuScreen() {
-        val runnable = Runnable { startActivity(Intent(this, MenuActivity::class.java)) }
-        val handler = Handler(Looper.getMainLooper())
-        handler. postDelayed (runnable, 2000)
-    }
 }
